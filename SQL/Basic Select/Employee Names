@@ -1,0 +1,6 @@
+/*
+Enter your query here.
+*/
+Select Name
+From Employee
+Order By Name Asc
