@@ -1,0 +1,6 @@
+/*
+Enter your query here.
+*/
+Select distinct CITY
+From STATION
+Where (ID%2)=0
