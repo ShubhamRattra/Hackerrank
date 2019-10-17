@@ -1,0 +1,5 @@
+/*
+Enter your query here.
+*/
+Select COUNT(CITY)-COUNT(distinct CITY)
+From STATION
